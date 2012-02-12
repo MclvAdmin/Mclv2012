@@ -1,0 +1,2 @@
+This project contains a number of subprojects, each of which fulfils a function defined by its parent folder.
+We will merge the projects in a "final" folder to run as a single project when each element is sufficiently developed.
