@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package org.mclv.spacial.math;
+package org.mclv.math;
 
 /**
  *

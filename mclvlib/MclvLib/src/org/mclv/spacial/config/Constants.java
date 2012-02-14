@@ -11,6 +11,11 @@ import edu.wpi.first.wpilibj.camera.AxisCamera;
  * @author God
  */
 public class Constants {
+    //SHOOTER CALC
+    public static final double MAX_TRAJ_TIME = 4;
+    public static final double VEL_STEP = 0.05;
+    public static final double[] DEVIATION = {0.02,0.02,0.02};
+    
     //NET
     public static final int[] PORTS = {1140}; //the port(s) on which to connect to the mclv network server
     public static final String SERVER_IP = "10.11.55.6"; //The ip of the computer running mclv network server software
